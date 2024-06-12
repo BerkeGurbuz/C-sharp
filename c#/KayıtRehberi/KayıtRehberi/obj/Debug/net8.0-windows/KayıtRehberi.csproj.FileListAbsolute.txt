@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\KayıtRehberi\KayıtRehberi\bin\Debug\net8.0-windows\KayıtRehberi.exe
+C:\Users\Admin\Desktop\KayıtRehberi\KayıtRehberi\bin\Debug\net8.0-windows\KayıtRehberi.deps.json
+C:\Users\Admin\Desktop\KayıtRehberi\KayıtRehberi\bin\Debug\net8.0-windows\KayıtRehberi.runtimeconfig.json
+C:\Users\Admin\Desktop\KayıtRehberi\KayıtRehberi\bin\Debug\net8.0-windows\KayıtRehberi.dll
+C:\Users\Admin\Desktop\KayıtRehberi\KayıtRehberi\bin\Debug\net8.0-windows\KayıtRehberi.pdb
+C:\Users\Admin\Desktop\KayıtRehberi\KayıtRehberi\obj\Debug\net8.0-windows\KayıtRehberi.Form1.resources
+C:\Users\Admin\Desktop\KayıtRehberi\KayıtRehberi\obj\Debug\net8.0-windows\KayıtRehberi.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\KayıtRehberi\KayıtRehberi\obj\Debug\net8.0-windows\KayıtRehberi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\KayıtRehberi\KayıtRehberi\obj\Debug\net8.0-windows\KayıtRehberi.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\KayıtRehberi\KayıtRehberi\obj\Debug\net8.0-windows\KayıtRehberi.AssemblyInfo.cs
+C:\Users\Admin\Desktop\KayıtRehberi\KayıtRehberi\obj\Debug\net8.0-windows\KayıtRehberi.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\KayıtRehberi\KayıtRehberi\obj\Debug\net8.0-windows\KayıtRehberi.dll
+C:\Users\Admin\Desktop\KayıtRehberi\KayıtRehberi\obj\Debug\net8.0-windows\refint\KayıtRehberi.dll
+C:\Users\Admin\Desktop\KayıtRehberi\KayıtRehberi\obj\Debug\net8.0-windows\KayıtRehberi.pdb
+C:\Users\Admin\Desktop\KayıtRehberi\KayıtRehberi\obj\Debug\net8.0-windows\KayıtRehberi.genruntimeconfig.cache
+C:\Users\Admin\Desktop\KayıtRehberi\KayıtRehberi\obj\Debug\net8.0-windows\ref\KayıtRehberi.dll

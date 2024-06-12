@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\c#\PizzaSiparis\PizzaSiparis\bin\Debug\net8.0-windows\PizzaSiparis.exe
+C:\Users\Admin\Desktop\c#\PizzaSiparis\PizzaSiparis\bin\Debug\net8.0-windows\PizzaSiparis.deps.json
+C:\Users\Admin\Desktop\c#\PizzaSiparis\PizzaSiparis\bin\Debug\net8.0-windows\PizzaSiparis.runtimeconfig.json
+C:\Users\Admin\Desktop\c#\PizzaSiparis\PizzaSiparis\bin\Debug\net8.0-windows\PizzaSiparis.dll
+C:\Users\Admin\Desktop\c#\PizzaSiparis\PizzaSiparis\bin\Debug\net8.0-windows\PizzaSiparis.pdb
+C:\Users\Admin\Desktop\c#\PizzaSiparis\PizzaSiparis\obj\Debug\net8.0-windows\PizzaSiparis.Form1.resources
+C:\Users\Admin\Desktop\c#\PizzaSiparis\PizzaSiparis\obj\Debug\net8.0-windows\PizzaSiparis.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\c#\PizzaSiparis\PizzaSiparis\obj\Debug\net8.0-windows\PizzaSiparis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\c#\PizzaSiparis\PizzaSiparis\obj\Debug\net8.0-windows\PizzaSiparis.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\c#\PizzaSiparis\PizzaSiparis\obj\Debug\net8.0-windows\PizzaSiparis.AssemblyInfo.cs
+C:\Users\Admin\Desktop\c#\PizzaSiparis\PizzaSiparis\obj\Debug\net8.0-windows\PizzaSiparis.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\c#\PizzaSiparis\PizzaSiparis\obj\Debug\net8.0-windows\PizzaSiparis.dll
+C:\Users\Admin\Desktop\c#\PizzaSiparis\PizzaSiparis\obj\Debug\net8.0-windows\refint\PizzaSiparis.dll
+C:\Users\Admin\Desktop\c#\PizzaSiparis\PizzaSiparis\obj\Debug\net8.0-windows\PizzaSiparis.pdb
+C:\Users\Admin\Desktop\c#\PizzaSiparis\PizzaSiparis\obj\Debug\net8.0-windows\PizzaSiparis.genruntimeconfig.cache
+C:\Users\Admin\Desktop\c#\PizzaSiparis\PizzaSiparis\obj\Debug\net8.0-windows\ref\PizzaSiparis.dll
+C:\Users\Admin\Desktop\c#\PizzaSiparis\PizzaSiparis\obj\Debug\net8.0-windows\PizzaSiparis.Properties.Resources.resources

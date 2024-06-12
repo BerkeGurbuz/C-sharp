@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\c#\Double Aritmetik Örnek\Double Aritmetik Örnek\bin\Debug\net8.0-windows\Double Aritmetik Örnek.exe
+C:\Users\Admin\Desktop\c#\Double Aritmetik Örnek\Double Aritmetik Örnek\bin\Debug\net8.0-windows\Double Aritmetik Örnek.deps.json
+C:\Users\Admin\Desktop\c#\Double Aritmetik Örnek\Double Aritmetik Örnek\bin\Debug\net8.0-windows\Double Aritmetik Örnek.runtimeconfig.json
+C:\Users\Admin\Desktop\c#\Double Aritmetik Örnek\Double Aritmetik Örnek\bin\Debug\net8.0-windows\Double Aritmetik Örnek.dll
+C:\Users\Admin\Desktop\c#\Double Aritmetik Örnek\Double Aritmetik Örnek\bin\Debug\net8.0-windows\Double Aritmetik Örnek.pdb
+C:\Users\Admin\Desktop\c#\Double Aritmetik Örnek\Double Aritmetik Örnek\obj\Debug\net8.0-windows\Double_Aritmetik_Örnek.Form1.resources
+C:\Users\Admin\Desktop\c#\Double Aritmetik Örnek\Double Aritmetik Örnek\obj\Debug\net8.0-windows\Double Aritmetik Örnek.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\c#\Double Aritmetik Örnek\Double Aritmetik Örnek\obj\Debug\net8.0-windows\Double Aritmetik Örnek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\c#\Double Aritmetik Örnek\Double Aritmetik Örnek\obj\Debug\net8.0-windows\Double Aritmetik Örnek.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\c#\Double Aritmetik Örnek\Double Aritmetik Örnek\obj\Debug\net8.0-windows\Double Aritmetik Örnek.AssemblyInfo.cs
+C:\Users\Admin\Desktop\c#\Double Aritmetik Örnek\Double Aritmetik Örnek\obj\Debug\net8.0-windows\Double Aritmetik Örnek.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\c#\Double Aritmetik Örnek\Double Aritmetik Örnek\obj\Debug\net8.0-windows\Double Aritmetik Örnek.dll
+C:\Users\Admin\Desktop\c#\Double Aritmetik Örnek\Double Aritmetik Örnek\obj\Debug\net8.0-windows\refint\Double Aritmetik Örnek.dll
+C:\Users\Admin\Desktop\c#\Double Aritmetik Örnek\Double Aritmetik Örnek\obj\Debug\net8.0-windows\Double Aritmetik Örnek.pdb
+C:\Users\Admin\Desktop\c#\Double Aritmetik Örnek\Double Aritmetik Örnek\obj\Debug\net8.0-windows\Double Aritmetik Örnek.genruntimeconfig.cache
+C:\Users\Admin\Desktop\c#\Double Aritmetik Örnek\Double Aritmetik Örnek\obj\Debug\net8.0-windows\ref\Double Aritmetik Örnek.dll

@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\c#\Futbol Ligi\Futbol Ligi\bin\Debug\net8.0-windows\Futbol Ligi.exe
+C:\Users\Admin\Desktop\c#\Futbol Ligi\Futbol Ligi\bin\Debug\net8.0-windows\Futbol Ligi.deps.json
+C:\Users\Admin\Desktop\c#\Futbol Ligi\Futbol Ligi\bin\Debug\net8.0-windows\Futbol Ligi.runtimeconfig.json
+C:\Users\Admin\Desktop\c#\Futbol Ligi\Futbol Ligi\bin\Debug\net8.0-windows\Futbol Ligi.dll
+C:\Users\Admin\Desktop\c#\Futbol Ligi\Futbol Ligi\bin\Debug\net8.0-windows\Futbol Ligi.pdb
+C:\Users\Admin\Desktop\c#\Futbol Ligi\Futbol Ligi\obj\Debug\net8.0-windows\Futbol_Ligi.Form1.resources
+C:\Users\Admin\Desktop\c#\Futbol Ligi\Futbol Ligi\obj\Debug\net8.0-windows\Futbol Ligi.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\c#\Futbol Ligi\Futbol Ligi\obj\Debug\net8.0-windows\Futbol Ligi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\c#\Futbol Ligi\Futbol Ligi\obj\Debug\net8.0-windows\Futbol Ligi.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\c#\Futbol Ligi\Futbol Ligi\obj\Debug\net8.0-windows\Futbol Ligi.AssemblyInfo.cs
+C:\Users\Admin\Desktop\c#\Futbol Ligi\Futbol Ligi\obj\Debug\net8.0-windows\Futbol Ligi.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\c#\Futbol Ligi\Futbol Ligi\obj\Debug\net8.0-windows\Futbol Ligi.dll
+C:\Users\Admin\Desktop\c#\Futbol Ligi\Futbol Ligi\obj\Debug\net8.0-windows\refint\Futbol Ligi.dll
+C:\Users\Admin\Desktop\c#\Futbol Ligi\Futbol Ligi\obj\Debug\net8.0-windows\Futbol Ligi.pdb
+C:\Users\Admin\Desktop\c#\Futbol Ligi\Futbol Ligi\obj\Debug\net8.0-windows\Futbol Ligi.genruntimeconfig.cache
+C:\Users\Admin\Desktop\c#\Futbol Ligi\Futbol Ligi\obj\Debug\net8.0-windows\ref\Futbol Ligi.dll

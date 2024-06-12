@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\c#\Formlar Arası Geçiş\Formlar Arası Geçiş\bin\Debug\net8.0-windows\Formlar Arası Geçiş.exe
+C:\Users\Admin\Desktop\c#\Formlar Arası Geçiş\Formlar Arası Geçiş\bin\Debug\net8.0-windows\Formlar Arası Geçiş.deps.json
+C:\Users\Admin\Desktop\c#\Formlar Arası Geçiş\Formlar Arası Geçiş\bin\Debug\net8.0-windows\Formlar Arası Geçiş.runtimeconfig.json
+C:\Users\Admin\Desktop\c#\Formlar Arası Geçiş\Formlar Arası Geçiş\bin\Debug\net8.0-windows\Formlar Arası Geçiş.dll
+C:\Users\Admin\Desktop\c#\Formlar Arası Geçiş\Formlar Arası Geçiş\bin\Debug\net8.0-windows\Formlar Arası Geçiş.pdb
+C:\Users\Admin\Desktop\c#\Formlar Arası Geçiş\Formlar Arası Geçiş\obj\Debug\net8.0-windows\Formlar_Arası_Geçiş.Form1.resources
+C:\Users\Admin\Desktop\c#\Formlar Arası Geçiş\Formlar Arası Geçiş\obj\Debug\net8.0-windows\Formlar_Arası_Geçiş.Form2.resources
+C:\Users\Admin\Desktop\c#\Formlar Arası Geçiş\Formlar Arası Geçiş\obj\Debug\net8.0-windows\Formlar Arası Geçiş.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\c#\Formlar Arası Geçiş\Formlar Arası Geçiş\obj\Debug\net8.0-windows\Formlar Arası Geçiş.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\c#\Formlar Arası Geçiş\Formlar Arası Geçiş\obj\Debug\net8.0-windows\Formlar Arası Geçiş.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\c#\Formlar Arası Geçiş\Formlar Arası Geçiş\obj\Debug\net8.0-windows\Formlar Arası Geçiş.AssemblyInfo.cs
+C:\Users\Admin\Desktop\c#\Formlar Arası Geçiş\Formlar Arası Geçiş\obj\Debug\net8.0-windows\Formlar Arası Geçiş.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\c#\Formlar Arası Geçiş\Formlar Arası Geçiş\obj\Debug\net8.0-windows\Formlar Arası Geçiş.dll
+C:\Users\Admin\Desktop\c#\Formlar Arası Geçiş\Formlar Arası Geçiş\obj\Debug\net8.0-windows\refint\Formlar Arası Geçiş.dll
+C:\Users\Admin\Desktop\c#\Formlar Arası Geçiş\Formlar Arası Geçiş\obj\Debug\net8.0-windows\Formlar Arası Geçiş.pdb
+C:\Users\Admin\Desktop\c#\Formlar Arası Geçiş\Formlar Arası Geçiş\obj\Debug\net8.0-windows\Formlar Arası Geçiş.genruntimeconfig.cache
+C:\Users\Admin\Desktop\c#\Formlar Arası Geçiş\Formlar Arası Geçiş\obj\Debug\net8.0-windows\ref\Formlar Arası Geçiş.dll

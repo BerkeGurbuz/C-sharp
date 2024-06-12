@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\c#\Fibonacci\Fibonacci\bin\Debug\net8.0-windows\Fibonacci.exe
+C:\Users\Admin\Desktop\c#\Fibonacci\Fibonacci\bin\Debug\net8.0-windows\Fibonacci.deps.json
+C:\Users\Admin\Desktop\c#\Fibonacci\Fibonacci\bin\Debug\net8.0-windows\Fibonacci.runtimeconfig.json
+C:\Users\Admin\Desktop\c#\Fibonacci\Fibonacci\bin\Debug\net8.0-windows\Fibonacci.dll
+C:\Users\Admin\Desktop\c#\Fibonacci\Fibonacci\bin\Debug\net8.0-windows\Fibonacci.pdb
+C:\Users\Admin\Desktop\c#\Fibonacci\Fibonacci\obj\Debug\net8.0-windows\Fibonacci.Form1.resources
+C:\Users\Admin\Desktop\c#\Fibonacci\Fibonacci\obj\Debug\net8.0-windows\Fibonacci.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\c#\Fibonacci\Fibonacci\obj\Debug\net8.0-windows\Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\c#\Fibonacci\Fibonacci\obj\Debug\net8.0-windows\Fibonacci.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\c#\Fibonacci\Fibonacci\obj\Debug\net8.0-windows\Fibonacci.AssemblyInfo.cs
+C:\Users\Admin\Desktop\c#\Fibonacci\Fibonacci\obj\Debug\net8.0-windows\Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\c#\Fibonacci\Fibonacci\obj\Debug\net8.0-windows\Fibonacci.dll
+C:\Users\Admin\Desktop\c#\Fibonacci\Fibonacci\obj\Debug\net8.0-windows\refint\Fibonacci.dll
+C:\Users\Admin\Desktop\c#\Fibonacci\Fibonacci\obj\Debug\net8.0-windows\Fibonacci.pdb
+C:\Users\Admin\Desktop\c#\Fibonacci\Fibonacci\obj\Debug\net8.0-windows\Fibonacci.genruntimeconfig.cache
+C:\Users\Admin\Desktop\c#\Fibonacci\Fibonacci\obj\Debug\net8.0-windows\ref\Fibonacci.dll
